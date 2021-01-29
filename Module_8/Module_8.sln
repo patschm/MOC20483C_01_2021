@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Netwerken", "Netwerken\Netwerken.csproj", "{77272ECC-DB82-423F-A4C9-5D1408CDFC3F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RssReader", "RssReader\RssReader.csproj", "{46EAC881-B1B3-4A2F-8AFE-52FB225F1327}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77272ECC-DB82-423F-A4C9-5D1408CDFC3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77272ECC-DB82-423F-A4C9-5D1408CDFC3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77272ECC-DB82-423F-A4C9-5D1408CDFC3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77272ECC-DB82-423F-A4C9-5D1408CDFC3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46EAC881-B1B3-4A2F-8AFE-52FB225F1327}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46EAC881-B1B3-4A2F-8AFE-52FB225F1327}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46EAC881-B1B3-4A2F-8AFE-52FB225F1327}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46EAC881-B1B3-4A2F-8AFE-52FB225F1327}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48022901-CD3E-4B14-B819-9FA551C3C8AB}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Basics", "Basics\Basics.csproj", "{58D5DD21-266F-4ADC-9706-B231A7450BAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collections", "Collections\Collections.csproj", "{889E8DAD-F69F-4234-84B1-526C2888BF51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TafelsVan10", "TafelsVan10\TafelsVan10.csproj", "{2696EF1D-625D-4D47-A4F0-A9F58D5A4F0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58D5DD21-266F-4ADC-9706-B231A7450BAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58D5DD21-266F-4ADC-9706-B231A7450BAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58D5DD21-266F-4ADC-9706-B231A7450BAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58D5DD21-266F-4ADC-9706-B231A7450BAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{889E8DAD-F69F-4234-84B1-526C2888BF51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{889E8DAD-F69F-4234-84B1-526C2888BF51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{889E8DAD-F69F-4234-84B1-526C2888BF51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{889E8DAD-F69F-4234-84B1-526C2888BF51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2696EF1D-625D-4D47-A4F0-A9F58D5A4F0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2696EF1D-625D-4D47-A4F0-A9F58D5A4F0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2696EF1D-625D-4D47-A4F0-A9F58D5A4F0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2696EF1D-625D-4D47-A4F0-A9F58D5A4F0F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4FB40DD1-904D-4013-A912-12F81BAFA902}
+	EndGlobalSection
+EndGlobal

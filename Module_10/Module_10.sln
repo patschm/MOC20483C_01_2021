@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Calculator\Calculator.csproj", "{4C85BB01-8D42-4482-9286-13C3452C9992}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Threading", "Threading\Threading.csproj", "{BB8EDE50-C2CB-42B5-981A-95312F2A17BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiscStuff", "Parallel\MiscStuff.csproj", "{403D7BD3-A1C4-414A-A4C0-68E2974C84A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C85BB01-8D42-4482-9286-13C3452C9992}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C85BB01-8D42-4482-9286-13C3452C9992}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C85BB01-8D42-4482-9286-13C3452C9992}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C85BB01-8D42-4482-9286-13C3452C9992}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB8EDE50-C2CB-42B5-981A-95312F2A17BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB8EDE50-C2CB-42B5-981A-95312F2A17BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB8EDE50-C2CB-42B5-981A-95312F2A17BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB8EDE50-C2CB-42B5-981A-95312F2A17BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{403D7BD3-A1C4-414A-A4C0-68E2974C84A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{403D7BD3-A1C4-414A-A4C0-68E2974C84A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{403D7BD3-A1C4-414A-A4C0-68E2974C84A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{403D7BD3-A1C4-414A-A4C0-68E2974C84A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E64FA34-307D-4534-BF2F-69F5BAA118ED}
+	EndGlobalSection
+EndGlobal
